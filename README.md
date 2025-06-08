@@ -1,6 +1,8 @@
 # NOME: GABRIEL TORRES FERNANDES - RM 553635
 
-# LINK VIDEO APRESENTAÇÃO --> 
+# LINK VIDEO APRESENTAÇÃO --> https://youtu.be/ZOOu20TTGpQ
+# LINK PROJETO WOKWI --> https://wokwi.com/projects/433203722729355265
+# LINK THINGSPEAK --> https://thingspeak.mathworks.com/channels/2983904
 
 ## Projeto IoT: Monitoramento de Abrigos em Tempo Real
 
